@@ -24,7 +24,7 @@ Este é um projeto desenvolvido pelo grupo **CodeCoLab**, formado por **ShiroiDE
 Se deseja contribuir, sinta-se à vontade para abrir um *pull request* ou sugerir melhorias na *issue tracker*.
 
 ## Contato
-- **ShiroiDEV**: [GitHub](https://github.com/ShiroiDEV)
+- **ShiroiCrypto**: [GitHub](https://github.com/ShiroiCrypto)
 - **raydenkkj**: [GitHub](https://github.com/raydenkkj)
 - **snowball**: [GitHub](https://github.com/snowball)
 

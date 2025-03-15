@@ -16,7 +16,7 @@ Este é um projeto desenvolvido pelo grupo **CodeCoLab**, formado por **ShiroiDE
 ## Como Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-repositorio.git
+   git clone https://github.com/ShiroiCrypto/CodeColab.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
